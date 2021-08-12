@@ -1,6 +1,6 @@
 # Eisch Lab - Sociomatrix Scirpt
 
-The EL Sociomatrix Script is a short script that draws a simply sociomatrix based on the animal society and the victories/defeats for each animal. The sociomatrix is row dominate, so the it is read as the row animal won/lost against the column animal. Along side the sociomatrix, there is also another chart that shows the amount of total wins for each animal. The Landau's h value and Devrie's h' value are also calculated and displayed based on the sociomatrix outcome.
+The EL Sociomatrix Script is a short script that draws a simple sociomatrix based on the animal society size and the victories/defeats for each animal. The sociomatrix is row dominate, so the it is read as the row animal won/lost against the column animal. Along side the sociomatrix, there is also another chart that shows the amount of total wins for each animal. The Landau's h value and Devrie's h' value are also calculated and displayed based on the sociomatrix outcome.
 
 This script was made so that you can use it without knowledge of coding.
 
